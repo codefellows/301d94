@@ -106,3 +106,8 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
    export default Something
    ```
+
+## Resources
+
+- [Pre-work Review Replit](https://replit.com/@sheyna/IndelibleForkedDaemons#index.js)
+- [ForEach Replit](https://replit.com/@sheyna/VioletMiserableParticles#index.js)
