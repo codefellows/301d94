@@ -91,3 +91,7 @@ Today we will use the skills we learned over the week to build a new application
     }
   }
   ```
+
+## Resources
+
+- [Intro to array method reduce Replit](https://replit.com/@sheyna/ConsiderateFrontProspect#index.js)
