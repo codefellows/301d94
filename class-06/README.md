@@ -93,3 +93,8 @@ Today we will explore third party APIs and how to request data from them.
 
    - you can wrap a try/catch around any code you want
    - it says, "try to run this code - if it doesn't work, then run the code in the catch block"
+
+## Resources
+
+- [Intro to Pass by Referrence vs Pass by Value Replit](https://replit.com/@sheyna/WorthlessShoddyEngine#index.js)
+- [Http Status Dogs](https://httpstatusdogs.com/)
