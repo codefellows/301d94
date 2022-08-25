@@ -78,7 +78,7 @@ Today we will dive a little bit deeper into Express and higher level programming
 
   module.exports = doSomething
   ```
-  
+
   - OR, it can be written like this
 
   ```javaScript
@@ -108,7 +108,7 @@ Today we will dive a little bit deeper into Express and higher level programming
   }
   ```
 
-  - to access a function from the object above in the server, we would...
+- to access a function from the object above in the server, we would...
 
   ```javaScript
   const doesStuffObject = require('./path-to-doesStuffObject');
@@ -116,5 +116,9 @@ Today we will dive a little bit deeper into Express and higher level programming
   doesStuffObject.doSomething();
   doesStuffObject.doSomethingElse();
   ```
-  
-  1. List of resources to help with lab or if I want to know more:
+
+ 1. List of resources to help with lab or if I want to know more:
+
+## Resources
+
+- [Object.keys .values and .entries Replit](https://replit.com/@sheyna/CoarseIllfatedSemicolon#index.js)
