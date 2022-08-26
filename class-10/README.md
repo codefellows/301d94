@@ -62,13 +62,16 @@ Today we will talk about in-memory storage as well as dive deeper into modulariz
   }
   ```
 
-  - compare that date/time with however long you want to keep the data. If the data is too old, just empty the object
-  
+- compare that date/time with however long you want to keep the data. If the data is too old, just empty the object
+
   ```javaScript
   if (cache[key] && (Date.now() - cache[key].dateAdded < 50000)) {
     console.log('Cache hit');
-  } else { 
+  } else {
     // dump the data and get fresh data from the API
   }
   ```
-  
+
+## Resources
+
+- [More with 2D Arrays Replit](https://replit.com/@sheyna/SpanishHorribleTransformation#index.js)
